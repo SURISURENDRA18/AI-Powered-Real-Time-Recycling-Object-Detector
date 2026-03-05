@@ -1,12 +1,4 @@
-"""
-♻️  Live Webcam Recycling Detector
-===================================
-Detects objects via webcam using YOLOv8 + Deep Learning
-and classifies each as RECYCLABLE or NON-RECYCLABLE.
 
-Platform : macOS Apple Silicon (M2) — uses MPS acceleration
-Author   : Generated for VS Code / Mac M2
-"""
 
 import cv2
 import torch
