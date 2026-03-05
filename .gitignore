@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+venv310/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML training outputs
+runs/
+datasets/
+weights/
+*.pt
+
+# macOS
+.DS_Store
+# Virtual environments
+venv/
+venv310/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML training outputs
+runs/
+datasets/
+weights/
+*.pt
+
+# macOS
+.DS_Store
+
